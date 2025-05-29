@@ -1,0 +1,2 @@
+# Strategic-Insights-Generator-Agent
+This is a smart website that helps you create full business reports by just giving it a few details. You tell it your company name, what industry you're in, and what kind of business problem you're facing—then it uses AI to write a complete report for you. You can choose what kind of report you want, how long it should be, and if you want things like tables, visuals, or recommendations. Everything is generated in a professional style automatically
