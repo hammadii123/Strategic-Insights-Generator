@@ -30,7 +30,7 @@ Strategic Insights Generator helps users create detailed business reports such a
    cd strategic-insights-generator
 ````
 
-2. **Add your Gemini API key in a `.env` file**
+2. Add your Gemini API key in a `.env` file
 
    ```
    GEMINI_API_KEY=your_api_key_here
