@@ -1,10 +1,4 @@
-Got it! Below are two separate sections for you:
 
----
-
-### ✅ **README (Separate File)**
-
-````markdown
 # 📊 Strategic Insights Generator
 
 An AI-powered web app to generate professional business reports using Google Gemini models.
